@@ -1,0 +1,401 @@
+user_id,name,city,age_segment,register_date,is_premium
+U1000,Ana Ramírez,Ciudad de México,25-34,2024-07-13,1
+U1001,Miguel Torres,Madrid,25-34,2021-03-27,0
+U1002,Sofía Martínez,Atlanta,45-54,2022-01-23,0
+U1003,Ana Rojas,Panamá,35-44,2024-02-03,1
+U1004,Juan Vega,Miami,45-54,2023-11-14,0
+U1005,Camila Gómez,Buenos Aires,35-44,2021-09-16,0
+U1006,Carlos Fernández,Atlanta,35-44,2021-10-21,0
+U1007,Pedro Torres,Barcelona,18-24,2022-06-03,1
+U1008,Ricardo Cruz,Ciudad de México,25-34,2022-11-10,1
+U1009,Carlos Rojas,Quito,25-34,2023-05-16,1
+U1010,Pedro Rojas,Puerto Plata,25-34,2022-06-01,0
+U1011,Camila Torres,Ciudad de México,55+,2022-10-10,1
+U1012,David Vega,Miami,25-34,2023-11-13,1
+U1013,Miguel Ramírez,Miami,45-54,2021-02-21,0
+U1014,Lucía Suárez,Buenos Aires,35-44,2021-12-20,1
+U1015,Jorge Díaz,Barcelona,45-54,2023-09-26,0
+U1016,Luis Sánchez,Madrid,35-44,2024-06-07,0
+U1017,Jorge López,Buenos Aires,35-44,2022-12-18,0
+U1018,Juan Morales,Buenos Aires,25-34,2023-01-15,0
+U1019,Ana Hernández,Puerto Plata,25-34,2021-05-31,0
+U1020,Valentina Cruz,Bogotá,35-44,2022-09-19,0
+U1021,Miguel Gómez,Barcelona,25-34,2023-01-16,0
+U1022,David Rojas,Santiago de los Caballeros,18-24,2021-12-06,1
+U1023,Ana Morales,Buenos Aires,35-44,2022-01-12,0
+U1024,Juan Rojas,New York,18-24,2022-06-13,0
+U1025,Elena Cruz,San Juan,55+,2021-01-29,0
+U1026,Valentina Vega,Bogotá,55+,2022-03-27,1
+U1027,Pedro Fernández,Santiago de los Caballeros,55+,2021-10-24,0
+U1028,María Torres,New York,25-34,2022-04-04,0
+U1029,Elena Fernández,Barcelona,18-24,2021-06-17,1
+U1030,Sofía López,Santo Domingo,55+,2024-05-31,0
+U1031,Andrés Díaz,New York,25-34,2023-04-12,0
+U1032,David Hernández,Quito,55+,2023-08-09,0
+U1033,Lucía Hernández,Bogotá,55+,2024-01-10,1
+U1034,Valentina Sánchez,Atlanta,45-54,2022-11-29,0
+U1035,Miguel Fernández,New York,25-34,2021-05-02,1
+U1036,Carolina Pérez,Lima,25-34,2023-01-22,0
+U1037,Paula Torres,Santo Domingo,45-54,2023-04-02,1
+U1038,Lucía Gutiérrez,Miami,25-34,2023-11-10,1
+U1039,Andrés Díaz,Miami,18-24,2022-08-28,1
+U1040,Paula Torres,Panamá,35-44,2021-06-28,0
+U1041,Jorge Gómez,Quito,55+,2022-02-02,1
+U1042,Sofía Gómez,New York,35-44,2022-05-24,0
+U1043,Jorge Morales,New York,35-44,2023-06-24,0
+U1044,Miguel Fernández,Panamá,18-24,2023-03-11,0
+U1045,Pedro Vega,San Juan,35-44,2022-05-14,1
+U1046,Jorge Sánchez,San Juan,55+,2024-10-13,1
+U1047,Gabriela Morales,Panamá,18-24,2023-04-29,1
+U1048,David Martínez,San Juan,35-44,2021-11-29,0
+U1049,Miguel Martínez,Puerto Plata,45-54,2021-05-23,0
+U1050,Sofía Rojas,New York,45-54,2021-08-03,1
+U1051,Paula Díaz,Ciudad de México,35-44,2021-12-11,0
+U1052,Diego Suárez,Madrid,35-44,2021-08-13,0
+U1053,Diego Morales,Lima,25-34,2021-09-19,0
+U1054,Valentina Torres,Puerto Plata,25-34,2022-02-04,0
+U1055,Luis Ortega,Barcelona,45-54,2021-08-31,0
+U1056,Gabriela Fernández,Puerto Plata,45-54,2024-06-09,0
+U1057,María López,Ciudad de México,45-54,2021-04-23,0
+U1058,Luis Pérez,Barcelona,55+,2023-01-05,0
+U1059,Camila Cruz,Lima,35-44,2022-07-29,1
+U1060,Juan Morales,Ciudad de México,35-44,2024-10-07,0
+U1061,Andrés Cruz,Santiago de los Caballeros,45-54,2021-06-06,0
+U1062,David Ortega,Madrid,35-44,2022-07-11,0
+U1063,Miguel Rojas,Lima,35-44,2024-09-19,0
+U1064,Carlos López,New York,45-54,2024-04-26,1
+U1065,Paula Díaz,San Juan,45-54,2024-02-18,1
+U1066,Jorge López,Santiago de los Caballeros,25-34,2021-12-28,0
+U1067,Elena Suárez,Quito,25-34,2021-08-28,0
+U1068,Lucía Gutiérrez,Lima,18-24,2023-07-26,1
+U1069,Carlos Díaz,Quito,35-44,2024-07-25,1
+U1070,Ricardo Pérez,Barcelona,18-24,2023-02-19,0
+U1071,Ricardo López,Santiago de los Caballeros,25-34,2023-03-12,0
+U1072,Elena Ortega,Madrid,35-44,2022-01-27,0
+U1073,Carolina Sánchez,New York,25-34,2023-12-14,1
+U1074,Luis Hernández,Panamá,35-44,2021-09-19,0
+U1075,Lucía Rojas,New York,18-24,2022-03-30,1
+U1076,Ricardo Ramírez,Ciudad de México,18-24,2022-08-19,0
+U1077,Carolina Vargas,New York,45-54,2022-12-12,0
+U1078,Gabriela Ramírez,Atlanta,25-34,2021-12-06,0
+U1079,Ana Hernández,Buenos Aires,18-24,2021-06-10,0
+U1080,Elena Torres,Panamá,35-44,2023-05-05,0
+U1081,María Torres,Puerto Plata,45-54,2022-02-09,0
+U1082,Diego Fernández,San Juan,25-34,2023-03-25,0
+U1083,Juan Navarro,Santo Domingo,35-44,2021-08-05,1
+U1084,Juan Rojas,Madrid,18-24,2022-11-05,0
+U1085,Luis Martínez,Santiago de los Caballeros,18-24,2023-01-16,0
+U1086,Gabriela Rojas,Buenos Aires,35-44,2021-03-14,1
+U1087,Lucía Díaz,Madrid,35-44,2022-04-17,1
+U1088,Ricardo Cruz,Santiago de los Caballeros,35-44,2021-07-08,1
+U1089,Camila Sánchez,San Juan,35-44,2021-03-30,1
+U1090,Paula Sánchez,Bogotá,55+,2024-10-17,0
+U1091,Elena Morales,Bogotá,35-44,2022-03-28,0
+U1092,Valentina Gutiérrez,Quito,25-34,2024-02-08,1
+U1093,Ricardo Gutiérrez,Madrid,45-54,2021-12-23,0
+U1094,Ana Torres,Bogotá,25-34,2023-08-13,0
+U1095,Sofía Fernández,Atlanta,25-34,2023-12-01,1
+U1096,Jorge Ramírez,Panamá,18-24,2023-04-14,0
+U1097,Diego Rojas,Santiago de los Caballeros,18-24,2022-10-23,0
+U1098,Sofía Vega,Quito,55+,2022-07-31,0
+U1099,Sofía Ramírez,New York,45-54,2022-05-04,0
+U1100,Juan Gómez,Santiago de los Caballeros,35-44,2024-07-25,0
+U1101,Sofía Fernández,Quito,25-34,2024-03-08,0
+U1102,María Vargas,San Juan,18-24,2024-09-13,1
+U1103,Juan Ortega,Madrid,18-24,2021-06-24,0
+U1104,Sofía Díaz,San Juan,25-34,2023-10-21,0
+U1105,Gabriela Sánchez,Panamá,35-44,2024-08-06,1
+U1106,Paula Martínez,Panamá,35-44,2021-09-11,1
+U1107,Diego Vega,Buenos Aires,35-44,2021-04-04,1
+U1108,Gabriela Torres,San Juan,25-34,2023-11-04,1
+U1109,Gabriela Suárez,Ciudad de México,55+,2023-03-16,0
+U1110,Pedro López,New York,35-44,2024-03-24,0
+U1111,Ana Suárez,Lima,35-44,2021-07-15,0
+U1112,Valentina Suárez,San Juan,35-44,2024-01-19,0
+U1113,Camila Gutiérrez,Buenos Aires,25-34,2021-10-10,0
+U1114,María López,Barcelona,25-34,2021-08-18,0
+U1115,María Morales,Atlanta,25-34,2021-08-18,1
+U1116,Jorge López,Santiago de los Caballeros,45-54,2024-02-15,0
+U1117,Sofía Sánchez,Panamá,18-24,2023-07-21,0
+U1118,Pedro Rojas,Barcelona,18-24,2023-01-03,0
+U1119,David Martínez,Buenos Aires,18-24,2022-05-18,0
+U1120,Camila Pérez,Quito,18-24,2024-05-13,0
+U1121,Miguel Gutiérrez,Lima,45-54,2022-07-04,1
+U1122,Sofía Fernández,New York,35-44,2024-02-18,0
+U1123,David Rojas,New York,25-34,2022-09-07,0
+U1124,Ana Gómez,New York,18-24,2022-06-12,0
+U1125,Paula Ramírez,Atlanta,25-34,2022-10-10,1
+U1126,Juan Torres,Lima,25-34,2022-02-26,0
+U1127,Lucía Suárez,Atlanta,18-24,2023-11-13,0
+U1128,Gabriela Navarro,Panamá,25-34,2022-12-05,0
+U1129,Pedro Morales,Atlanta,25-34,2021-11-22,0
+U1130,María Pérez,Santo Domingo,35-44,2024-06-13,1
+U1131,Andrés Ramírez,Lima,35-44,2022-06-22,1
+U1132,Andrés Díaz,Ciudad de México,18-24,2023-01-31,0
+U1133,David Castro,Lima,25-34,2024-06-23,1
+U1134,Camila Rojas,Buenos Aires,35-44,2023-05-24,1
+U1135,Gabriela Martínez,Santo Domingo,35-44,2021-06-13,1
+U1136,Pedro Castro,New York,45-54,2024-08-08,1
+U1137,Pedro Gómez,Buenos Aires,35-44,2023-05-29,0
+U1138,Diego Rojas,Buenos Aires,18-24,2022-04-14,0
+U1139,María Vargas,Panamá,18-24,2021-07-14,0
+U1140,María Gómez,Miami,35-44,2024-01-17,1
+U1141,Diego Navarro,Puerto Plata,18-24,2023-05-19,0
+U1142,Ricardo Ortega,Santo Domingo,35-44,2023-01-17,1
+U1143,Lucía Gómez,Buenos Aires,55+,2024-06-05,1
+U1144,Ricardo Fernández,Puerto Plata,35-44,2024-01-10,0
+U1145,Lucía Fernández,Puerto Plata,25-34,2021-08-01,1
+U1146,Carolina Fernández,Santo Domingo,35-44,2022-03-13,0
+U1147,Sofía Morales,Miami,25-34,2021-12-14,0
+U1148,Ana Vega,Barcelona,35-44,2023-11-08,1
+U1149,Sofía Vega,Quito,55+,2021-02-16,0
+U1150,Carolina Gómez,Ciudad de México,25-34,2023-03-09,1
+U1151,Carolina Fernández,Quito,55+,2023-12-04,1
+U1152,Camila Vega,Lima,55+,2024-05-12,0
+U1153,Diego Ortega,New York,25-34,2022-04-24,0
+U1154,Jorge Díaz,Ciudad de México,18-24,2024-02-24,0
+U1155,Pedro Vargas,Lima,18-24,2021-06-04,0
+U1156,Sofía Díaz,Buenos Aires,18-24,2024-03-31,1
+U1157,Andrés Martínez,New York,18-24,2021-06-28,0
+U1158,Elena Gutiérrez,Santiago de los Caballeros,35-44,2022-07-11,0
+U1159,Jorge Fernández,Santo Domingo,18-24,2024-01-22,0
+U1160,Carlos Gutiérrez,Ciudad de México,25-34,2021-07-29,0
+U1161,Carolina Vega,Ciudad de México,45-54,2021-11-17,1
+U1162,Ana Fernández,San Juan,18-24,2023-10-09,0
+U1163,Paula Sánchez,Buenos Aires,45-54,2023-10-06,1
+U1164,Ricardo Díaz,Barcelona,25-34,2023-06-17,0
+U1165,Luis Hernández,Puerto Plata,18-24,2023-08-30,1
+U1166,Juan Torres,New York,35-44,2023-01-30,0
+U1167,Valentina Castro,Buenos Aires,35-44,2021-12-19,0
+U1168,Lucía Gutiérrez,Bogotá,45-54,2022-04-29,1
+U1169,Paula Castro,Miami,35-44,2021-09-12,0
+U1170,Carolina Ortega,Puerto Plata,45-54,2024-06-25,1
+U1171,Carlos Rojas,Santo Domingo,25-34,2023-03-28,0
+U1172,Elena López,Puerto Plata,18-24,2022-07-16,0
+U1173,Luis Díaz,Barcelona,45-54,2022-10-09,0
+U1174,Ana López,Panamá,45-54,2024-08-19,1
+U1175,Paula Martínez,San Juan,55+,2021-08-03,0
+U1176,Miguel Castro,Puerto Plata,25-34,2023-04-01,0
+U1177,Carolina Sánchez,Santo Domingo,25-34,2022-12-10,0
+U1178,Jorge Sánchez,Barcelona,45-54,2023-05-07,0
+U1179,Miguel Ortega,Quito,25-34,2021-01-26,0
+U1180,Gabriela Díaz,Ciudad de México,55+,2024-05-05,1
+U1181,María Fernández,Panamá,45-54,2024-07-28,1
+U1182,Camila Díaz,San Juan,25-34,2023-03-03,1
+U1183,María Ramírez,Ciudad de México,45-54,2023-09-03,1
+U1184,Jorge Martínez,Miami,45-54,2024-07-15,0
+U1185,Miguel Pérez,Lima,18-24,2023-09-18,1
+U1186,David Rojas,Panamá,55+,2021-08-02,0
+U1187,Camila Rojas,Panamá,35-44,2023-03-18,0
+U1188,Carlos López,Quito,45-54,2023-04-30,0
+U1189,Juan Martínez,Quito,25-34,2022-08-17,0
+U1190,Paula Gómez,New York,45-54,2023-10-29,1
+U1191,Valentina Vega,Atlanta,25-34,2024-08-01,0
+U1192,Paula Martínez,Puerto Plata,18-24,2024-07-19,0
+U1193,Camila Martínez,Panamá,55+,2022-09-24,0
+U1194,María Castro,Ciudad de México,18-24,2021-06-08,1
+U1195,Valentina Gómez,Santo Domingo,25-34,2024-10-10,0
+U1196,Valentina Sánchez,Madrid,55+,2024-03-20,0
+U1197,Sofía López,Atlanta,55+,2021-06-24,0
+U1198,Valentina Rojas,Madrid,35-44,2024-07-13,1
+U1199,Camila Cruz,San Juan,35-44,2024-05-02,0
+U1200,Luis Torres,Barcelona,25-34,2022-12-28,0
+U1201,Lucía Pérez,Ciudad de México,25-34,2023-04-08,0
+U1202,Camila Ramírez,Ciudad de México,25-34,2022-07-13,0
+U1203,Lucía Vargas,Atlanta,35-44,2021-03-18,0
+U1204,Camila Torres,Panamá,45-54,2022-04-15,0
+U1205,Miguel Pérez,Miami,45-54,2024-01-29,1
+U1206,Ana Morales,Atlanta,45-54,2021-01-07,0
+U1207,María Navarro,Madrid,18-24,2022-04-12,0
+U1208,Sofía Sánchez,Atlanta,25-34,2022-07-12,1
+U1209,David Hernández,Ciudad de México,18-24,2023-01-23,0
+U1210,Elena Torres,Miami,35-44,2024-07-11,0
+U1211,Sofía Ramírez,Puerto Plata,25-34,2022-04-30,0
+U1212,Pedro Morales,Bogotá,45-54,2022-05-01,0
+U1213,Jorge Díaz,New York,25-34,2023-10-30,1
+U1214,Juan Díaz,Santiago de los Caballeros,18-24,2022-09-26,0
+U1215,Valentina Ortega,Quito,18-24,2021-11-11,1
+U1216,Andrés Rojas,Atlanta,45-54,2022-09-26,0
+U1217,Jorge Ramírez,San Juan,35-44,2021-07-17,0
+U1218,Ana Díaz,Lima,18-24,2021-09-04,0
+U1219,Lucía Vega,Barcelona,18-24,2022-11-29,0
+U1220,Miguel Gómez,Bogotá,35-44,2022-08-10,0
+U1221,Ana Cruz,New York,18-24,2024-07-04,1
+U1222,Camila Hernández,New York,45-54,2022-05-23,0
+U1223,Jorge Suárez,New York,35-44,2023-03-24,1
+U1224,Carolina Ortega,New York,18-24,2023-06-05,0
+U1225,Ana Morales,Madrid,18-24,2021-01-19,1
+U1226,Diego Sánchez,San Juan,55+,2023-07-18,1
+U1227,Miguel Gómez,San Juan,25-34,2021-09-07,1
+U1228,Camila Ramírez,Miami,25-34,2024-09-07,1
+U1229,Ricardo Rojas,Quito,45-54,2021-07-28,1
+U1230,Pedro Hernández,Ciudad de México,55+,2022-08-04,0
+U1231,Camila Fernández,New York,55+,2021-04-30,0
+U1232,Jorge Cruz,Lima,45-54,2024-10-27,0
+U1233,Jorge López,Ciudad de México,25-34,2022-12-05,1
+U1234,Elena Ortega,San Juan,18-24,2023-04-14,0
+U1235,Elena Suárez,Santo Domingo,45-54,2021-04-04,1
+U1236,Jorge Morales,Santo Domingo,35-44,2023-11-16,0
+U1237,Elena Rojas,Lima,25-34,2021-10-21,0
+U1238,Luis Sánchez,Miami,55+,2024-06-11,0
+U1239,Camila Morales,San Juan,18-24,2021-10-15,0
+U1240,Lucía Cruz,Lima,25-34,2021-09-24,0
+U1241,Diego Castro,Madrid,18-24,2021-02-21,0
+U1242,Andrés Rojas,Atlanta,25-34,2022-10-23,0
+U1243,Carlos Castro,Lima,18-24,2023-03-02,0
+U1244,Elena Sánchez,Puerto Plata,18-24,2021-04-02,0
+U1245,Camila Vega,Ciudad de México,18-24,2023-12-22,0
+U1246,Carolina Vargas,Bogotá,35-44,2022-09-27,1
+U1247,David Gutiérrez,Buenos Aires,45-54,2023-01-05,0
+U1248,David Sánchez,Miami,35-44,2022-09-10,0
+U1249,Ricardo Navarro,Lima,55+,2022-07-16,0
+U1250,Lucía Fernández,San Juan,25-34,2023-02-23,0
+U1251,Elena Ortega,Barcelona,25-34,2021-08-06,0
+U1252,Carolina Vargas,Santo Domingo,45-54,2021-09-12,0
+U1253,Juan Torres,Puerto Plata,25-34,2024-04-21,0
+U1254,Elena Torres,Quito,55+,2024-08-17,0
+U1255,Pedro Martínez,New York,18-24,2022-06-07,0
+U1256,Carlos Gómez,Buenos Aires,55+,2022-01-15,1
+U1257,Sofía Navarro,Panamá,18-24,2023-06-21,1
+U1258,Carolina Fernández,Miami,45-54,2022-07-27,0
+U1259,David Suárez,Bogotá,35-44,2021-02-05,0
+U1260,Diego Sánchez,Buenos Aires,55+,2021-08-07,0
+U1261,Andrés Navarro,Lima,18-24,2023-09-30,0
+U1262,Andrés Torres,Madrid,35-44,2023-07-12,1
+U1263,Luis Ramírez,Santo Domingo,55+,2021-02-07,0
+U1264,Ana Suárez,San Juan,35-44,2021-11-07,0
+U1265,Sofía Pérez,Santo Domingo,35-44,2021-11-20,0
+U1266,Ricardo Gutiérrez,Quito,35-44,2023-07-30,1
+U1267,María Rojas,Madrid,25-34,2021-01-28,0
+U1268,Sofía López,New York,35-44,2021-05-26,0
+U1269,David Martínez,San Juan,35-44,2024-01-25,0
+U1270,David Ortega,Ciudad de México,55+,2021-09-07,0
+U1271,Paula Cruz,Santiago de los Caballeros,18-24,2023-07-03,0
+U1272,Jorge Gutiérrez,Puerto Plata,25-34,2021-11-30,0
+U1273,Carolina Ortega,Santo Domingo,55+,2021-05-20,0
+U1274,Camila Rojas,Barcelona,45-54,2021-12-07,0
+U1275,David Pérez,Santo Domingo,25-34,2023-10-09,0
+U1276,Gabriela Gutiérrez,Buenos Aires,35-44,2024-04-12,0
+U1277,Miguel Torres,Santo Domingo,25-34,2024-03-08,0
+U1278,Miguel Ortega,Miami,25-34,2022-07-11,0
+U1279,Gabriela Torres,Santo Domingo,25-34,2023-07-25,1
+U1280,Miguel Gutiérrez,Santiago de los Caballeros,25-34,2021-10-14,0
+U1281,Juan Castro,Santiago de los Caballeros,35-44,2022-02-15,0
+U1282,Sofía Díaz,New York,18-24,2024-06-08,0
+U1283,Jorge Vargas,Bogotá,55+,2021-01-19,0
+U1284,Paula Fernández,Ciudad de México,55+,2021-04-30,1
+U1285,Luis Martínez,Barcelona,35-44,2021-10-19,0
+U1286,Sofía Morales,Santo Domingo,35-44,2021-02-07,1
+U1287,Luis Sánchez,Santo Domingo,25-34,2021-09-12,0
+U1288,Juan Suárez,Puerto Plata,45-54,2023-03-28,0
+U1289,Camila Vargas,San Juan,35-44,2022-08-13,1
+U1290,Paula Gutiérrez,Santiago de los Caballeros,18-24,2024-06-03,1
+U1291,Camila Gómez,Barcelona,55+,2024-02-19,1
+U1292,Pedro Suárez,New York,45-54,2022-04-24,1
+U1293,Andrés Vega,Quito,55+,2021-12-30,0
+U1294,Carlos Vega,Bogotá,35-44,2022-06-16,1
+U1295,Andrés Navarro,Ciudad de México,35-44,2023-04-07,0
+U1296,Carlos Hernández,Madrid,25-34,2022-01-11,1
+U1297,Elena Morales,Ciudad de México,55+,2023-05-24,0
+U1298,Camila Rojas,Miami,45-54,2022-07-28,1
+U1299,Paula Cruz,Buenos Aires,18-24,2023-02-12,0
+U1300,Sofía Navarro,Miami,18-24,2022-09-03,0
+U1301,Sofía Díaz,Santo Domingo,25-34,2022-02-17,0
+U1302,Camila Navarro,Panamá,45-54,2024-08-20,1
+U1303,Carlos Morales,Bogotá,55+,2023-12-06,0
+U1304,Jorge Morales,Buenos Aires,18-24,2021-07-16,0
+U1305,Lucía Gutiérrez,Barcelona,35-44,2024-04-30,0
+U1306,Luis Cruz,Madrid,25-34,2022-11-14,0
+U1307,Paula Ramírez,Santiago de los Caballeros,55+,2024-06-06,1
+U1308,Andrés Vega,Bogotá,45-54,2024-01-25,0
+U1309,Diego Ramírez,Bogotá,45-54,2022-08-19,1
+U1310,Juan Suárez,Miami,25-34,2021-02-01,0
+U1311,Luis Gutiérrez,Panamá,25-34,2022-01-12,0
+U1312,Lucía Gómez,Santo Domingo,25-34,2023-01-29,1
+U1313,Miguel Morales,Lima,18-24,2023-06-06,0
+U1314,Jorge Sánchez,New York,45-54,2021-12-28,0
+U1315,David Vargas,Miami,45-54,2021-07-15,0
+U1316,Jorge Morales,Bogotá,55+,2024-03-14,1
+U1317,Miguel Suárez,Atlanta,55+,2024-10-10,0
+U1318,Miguel Fernández,Puerto Plata,35-44,2023-01-06,1
+U1319,Gabriela Ramírez,Madrid,45-54,2021-08-29,1
+U1320,Paula Gómez,New York,55+,2022-01-17,0
+U1321,Valentina Torres,Miami,45-54,2021-01-26,0
+U1322,Juan Gómez,Madrid,25-34,2024-07-04,0
+U1323,Carlos Torres,Puerto Plata,25-34,2021-06-14,0
+U1324,Pedro Ramírez,Quito,18-24,2023-03-19,0
+U1325,Carolina Martínez,Puerto Plata,55+,2022-01-19,0
+U1326,Sofía Martínez,Panamá,35-44,2023-02-15,0
+U1327,Gabriela López,Puerto Plata,25-34,2023-07-01,1
+U1328,Diego Sánchez,Madrid,35-44,2024-03-07,1
+U1329,David Díaz,Ciudad de México,35-44,2021-10-16,1
+U1330,Valentina Pérez,Madrid,25-34,2021-01-16,0
+U1331,Carolina Cruz,Lima,18-24,2021-07-11,0
+U1332,Ana Pérez,Santo Domingo,35-44,2024-06-14,0
+U1333,Elena López,Buenos Aires,35-44,2024-05-08,1
+U1334,Diego Ramírez,Ciudad de México,45-54,2023-04-17,0
+U1335,Elena Vega,Santiago de los Caballeros,35-44,2023-04-21,1
+U1336,Andrés Morales,Buenos Aires,45-54,2023-07-21,0
+U1337,Pedro Fernández,Santo Domingo,35-44,2021-09-03,0
+U1338,Diego Torres,Miami,35-44,2024-07-04,1
+U1339,Ana Castro,New York,45-54,2022-08-10,0
+U1340,Carolina López,Lima,25-34,2022-06-21,1
+U1341,Diego Gómez,Lima,18-24,2022-12-28,1
+U1342,Valentina Rojas,Santiago de los Caballeros,18-24,2021-03-07,0
+U1343,Camila Hernández,Ciudad de México,45-54,2021-08-21,0
+U1344,Juan Ortega,Panamá,35-44,2023-10-31,0
+U1345,Jorge Ramírez,San Juan,35-44,2021-04-26,1
+U1346,Camila Navarro,Quito,25-34,2023-04-25,0
+U1347,Ana Suárez,Puerto Plata,18-24,2021-12-10,0
+U1348,Valentina Gutiérrez,Ciudad de México,18-24,2022-06-30,0
+U1349,Luis Suárez,New York,25-34,2022-02-09,1
+U1350,Lucía Ortega,Quito,35-44,2022-05-13,0
+U1351,Miguel Cruz,Lima,25-34,2023-10-04,1
+U1352,Paula Navarro,Madrid,25-34,2022-02-20,1
+U1353,David Suárez,New York,55+,2023-03-04,0
+U1354,Diego Díaz,Santo Domingo,25-34,2022-10-29,0
+U1355,Jorge Torres,Santiago de los Caballeros,35-44,2023-07-19,1
+U1356,Juan Díaz,Santo Domingo,45-54,2024-08-04,0
+U1357,David Torres,San Juan,25-34,2023-10-23,1
+U1358,David Vega,New York,35-44,2021-10-28,0
+U1359,Carolina Morales,Barcelona,45-54,2021-02-13,0
+U1360,Jorge Ramírez,Barcelona,55+,2022-01-03,1
+U1361,Gabriela Vargas,Miami,18-24,2023-04-14,0
+U1362,Lucía Navarro,Ciudad de México,55+,2021-03-13,0
+U1363,Pedro Hernández,Lima,25-34,2022-11-26,0
+U1364,Miguel Vargas,Lima,25-34,2023-04-16,0
+U1365,Miguel Cruz,Puerto Plata,25-34,2022-04-13,0
+U1366,Miguel Rojas,Puerto Plata,55+,2023-12-16,0
+U1367,Carlos Ortega,Puerto Plata,25-34,2021-05-30,1
+U1368,Pedro Fernández,Madrid,25-34,2021-04-16,0
+U1369,Sofía Suárez,Buenos Aires,35-44,2023-10-17,0
+U1370,Gabriela Rojas,Bogotá,25-34,2022-11-25,0
+U1371,Sofía Navarro,Buenos Aires,18-24,2023-08-22,1
+U1372,Gabriela Gutiérrez,Santo Domingo,18-24,2022-09-01,0
+U1373,Carlos Fernández,Buenos Aires,18-24,2021-12-11,1
+U1374,Elena Torres,Madrid,18-24,2024-02-21,0
+U1375,Andrés Torres,Miami,18-24,2024-01-25,0
+U1376,Elena Vega,Santo Domingo,35-44,2023-08-31,0
+U1377,Valentina Navarro,Buenos Aires,25-34,2022-01-17,0
+U1378,Paula Ortega,Madrid,25-34,2023-04-07,0
+U1379,Valentina Suárez,Bogotá,45-54,2022-05-21,0
+U1380,Paula Vargas,Buenos Aires,25-34,2021-05-09,1
+U1381,Valentina Gutiérrez,Madrid,35-44,2024-07-08,0
+U1382,Miguel Castro,San Juan,18-24,2021-07-11,0
+U1383,Miguel Torres,Puerto Plata,25-34,2024-08-23,0
+U1384,Ana Sánchez,San Juan,18-24,2022-09-17,1
+U1385,Jorge López,Lima,18-24,2021-09-17,0
+U1386,Paula Pérez,Puerto Plata,25-34,2023-01-29,0
+U1387,Pedro Sánchez,Lima,18-24,2024-05-07,0
+U1388,Gabriela Díaz,Atlanta,18-24,2023-10-23,1
+U1389,Diego Ortega,Santiago de los Caballeros,18-24,2024-02-04,0
+U1390,Carolina Castro,San Juan,25-34,2023-07-12,0
+U1391,Ana Sánchez,Santiago de los Caballeros,25-34,2023-08-28,1
+U1392,Elena Torres,Santiago de los Caballeros,25-34,2024-04-03,1
+U1393,Valentina Pérez,Bogotá,35-44,2021-12-16,0
+U1394,Elena Ramírez,Puerto Plata,35-44,2022-11-17,1
+U1395,Paula Martínez,Atlanta,18-24,2021-11-06,0
+U1396,Miguel Gómez,Lima,45-54,2024-10-14,0
+U1397,María Rojas,Madrid,35-44,2024-08-14,0
+U1398,Elena Martínez,Santo Domingo,18-24,2021-02-25,0
+U1399,Gabriela López,Madrid,45-54,2023-09-15,0

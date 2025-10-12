@@ -1,0 +1,151 @@
+product_id,category,brand,launch_date,price_usd
+P2000,Electrónica,VoltPro,2024-04-22,32.89
+P2001,Hotel,CityLights,2022-10-12,64.57
+P2002,Ropa,ClassicLine,2023-04-02,35.39
+P2003,Hotel,Sueño Real,2023-02-14,76.6
+P2004,Electrónica,Auralink,2023-04-10,56.56
+P2005,Ropa,UrbanWear,2022-05-06,23.2
+P2006,Electrónica,Photonix,2022-01-27,38.22
+P2007,Ropa,UrbanWear,2022-07-01,16.18
+P2008,Supermercado,MaxiMarket,2023-08-30,19.12
+P2009,Restaurante,El Asadero,2024-02-21,52.75
+P2010,Supermercado,Abarrotes 24,2022-06-09,34.74
+P2011,Electrónica,TecnoMax,2024-04-30,29.91
+P2012,Electrónica,VoltPro,2023-09-07,64.16
+P2013,Ropa,EcoThread,2024-02-22,23.97
+P2014,Supermercado,EcoMarket,2023-05-29,38.18
+P2015,Restaurante,Cafeto,2022-07-14,39.44
+P2016,Ropa,ClassicLine,2023-08-16,47.15
+P2017,Ropa,Fit&Go,2022-04-06,15.51
+P2018,Supermercado,MercadoPlus,2023-08-16,23.91
+P2019,Hotel,EcoStay,2024-02-23,76.06
+P2020,Supermercado,MaxiMarket,2023-12-06,46.78
+P2021,Supermercado,MaxiMarket,2024-03-01,29.41
+P2022,Restaurante,El Asadero,2022-12-30,39.48
+P2023,Hotel,Hotel Mar Azul,2023-12-29,40.81
+P2024,Restaurante,El Asadero,2023-11-18,21.78
+P2025,Restaurante,Cafeto,2024-01-07,42.53
+P2026,Electrónica,TecnoMax,2022-04-19,22.89
+P2027,Electrónica,Photonix,2022-10-20,24.69
+P2028,Ropa,EcoThread,2022-11-26,46.42
+P2029,Ropa,Fit&Go,2022-12-16,17.48
+P2030,Electrónica,TecnoMax,2023-02-08,19.0
+P2031,Hotel,Andes Inn,2022-07-24,39.28
+P2032,Ropa,UrbanWear,2022-03-07,47.31
+P2033,Restaurante,La Trattoria,2023-07-12,36.74
+P2034,Supermercado,Frescura,2023-02-22,36.33
+P2035,Ropa,UrbanWear,2023-04-13,21.54
+P2036,Supermercado,Frescura,2023-03-08,14.07
+P2037,Restaurante,La Trattoria,2023-06-07,12.7
+P2038,Restaurante,Sabores Doña Ana,2023-04-26,42.68
+P2039,Electrónica,TecnoMax,2024-01-02,30.74
+P2040,Hotel,EcoStay,2023-10-09,90.34
+P2041,Supermercado,Abarrotes 24,2022-08-08,27.45
+P2042,Ropa,UrbanWear,2024-04-14,18.15
+P2043,Ropa,Fit&Go,2023-03-14,21.93
+P2044,Ropa,Fit&Go,2022-08-20,16.52
+P2045,Supermercado,EcoMarket,2023-12-24,15.78
+P2046,Ropa,ClassicLine,2023-05-01,35.42
+P2047,Electrónica,VoltPro,2023-10-07,13.09
+P2048,Electrónica,Photonix,2022-09-03,16.56
+P2049,Hotel,EcoStay,2022-06-13,60.96
+P2050,Hotel,Hotel Mar Azul,2023-09-06,69.56
+P2051,Electrónica,TecnoMax,2023-10-01,14.39
+P2052,Supermercado,EcoMarket,2022-04-07,12.97
+P2053,Electrónica,Auralink,2024-05-16,29.26
+P2054,Supermercado,MaxiMarket,2023-03-12,26.83
+P2055,Restaurante,SushiGo,2022-02-09,42.34
+P2056,Supermercado,MercadoPlus,2023-07-24,25.76
+P2057,Hotel,Sueño Real,2024-01-08,82.87
+P2058,Supermercado,MercadoPlus,2024-03-06,18.53
+P2059,Ropa,UrbanWear,2023-07-04,18.82
+P2060,Ropa,Fit&Go,2023-01-05,14.92
+P2061,Ropa,Fit&Go,2023-12-04,18.59
+P2062,Hotel,Hotel Mar Azul,2022-09-05,59.27
+P2063,Restaurante,La Trattoria,2023-08-24,40.41
+P2064,Ropa,ClassicLine,2022-03-27,17.56
+P2065,Hotel,CityLights,2023-06-12,157.29
+P2066,Supermercado,MaxiMarket,2022-06-01,31.61
+P2067,Ropa,UrbanWear,2022-07-15,28.95
+P2068,Hotel,Andes Inn,2022-03-28,67.87
+P2069,Hotel,Hotel Mar Azul,2023-07-01,62.88
+P2070,Ropa,EcoThread,2023-05-08,19.63
+P2071,Electrónica,VoltPro,2023-06-20,14.18
+P2072,Ropa,ClassicLine,2023-03-24,17.79
+P2073,Electrónica,TecnoMax,2023-01-21,47.26
+P2074,Supermercado,Abarrotes 24,2023-10-08,30.8
+P2075,Supermercado,MercadoPlus,2022-09-04,47.06
+P2076,Ropa,UrbanWear,2022-03-13,19.44
+P2077,Restaurante,La Trattoria,2022-07-23,16.35
+P2078,Supermercado,Frescura,2022-11-16,24.87
+P2079,Hotel,CityLights,2022-03-02,49.01
+P2080,Ropa,UrbanWear,2023-12-22,26.94
+P2081,Electrónica,VoltPro,2024-03-03,13.17
+P2082,Restaurante,El Asadero,2023-08-09,11.05
+P2083,Hotel,EcoStay,2022-10-27,77.45
+P2084,Electrónica,VoltPro,2023-08-26,47.9
+P2085,Ropa,UrbanWear,2023-02-23,29.01
+P2086,Restaurante,Sabores Doña Ana,2022-02-24,30.67
+P2087,Ropa,UrbanWear,2022-06-07,25.29
+P2088,Restaurante,SushiGo,2023-09-14,26.25
+P2089,Hotel,EcoStay,2022-03-29,37.88
+P2090,Hotel,CityLights,2023-02-10,49.69
+P2091,Ropa,ClassicLine,2023-08-22,40.22
+P2092,Restaurante,SushiGo,2023-12-17,15.85
+P2093,Supermercado,Frescura,2024-06-12,21.62
+P2094,Ropa,Eleganza,2024-04-14,39.85
+P2095,Supermercado,EcoMarket,2023-04-14,25.96
+P2096,Restaurante,Sabores Doña Ana,2023-07-16,26.49
+P2097,Hotel,CityLights,2022-04-25,58.93
+P2098,Hotel,EcoStay,2024-01-14,88.52
+P2099,Hotel,Hotel Mar Azul,2022-02-02,97.78
+P2100,Hotel,Andes Inn,2022-09-30,48.7
+P2101,Supermercado,EcoMarket,2022-03-20,14.4
+P2102,Ropa,Eleganza,2024-04-23,11.77
+P2103,Ropa,EcoThread,2022-12-24,30.06
+P2104,Ropa,Fit&Go,2023-02-07,28.66
+P2105,Hotel,EcoStay,2024-04-07,180.77
+P2106,Supermercado,MercadoPlus,2023-03-24,25.35
+P2107,Ropa,Fit&Go,2022-12-09,23.58
+P2108,Restaurante,El Asadero,2024-03-01,27.3
+P2109,Supermercado,MercadoPlus,2023-12-13,27.9
+P2110,Restaurante,SushiGo,2022-10-02,22.87
+P2111,Electrónica,Auralink,2022-06-06,18.13
+P2112,Ropa,ClassicLine,2023-09-18,24.81
+P2113,Ropa,Eleganza,2023-07-31,24.44
+P2114,Ropa,UrbanWear,2024-01-11,24.29
+P2115,Restaurante,Cafeto,2023-06-30,34.03
+P2116,Supermercado,Abarrotes 24,2023-11-20,24.63
+P2117,Electrónica,Photonix,2022-12-25,14.52
+P2118,Electrónica,VoltPro,2022-05-12,19.22
+P2119,Ropa,UrbanWear,2022-01-24,22.76
+P2120,Restaurante,SushiGo,2022-05-02,25.09
+P2121,Restaurante,Sabores Doña Ana,2024-05-19,30.32
+P2122,Ropa,Fit&Go,2023-01-25,25.17
+P2123,Hotel,EcoStay,2023-01-31,30.26
+P2124,Ropa,UrbanWear,2022-04-06,15.12
+P2125,Hotel,EcoStay,2023-07-12,84.77
+P2126,Ropa,Fit&Go,2023-08-09,22.52
+P2127,Ropa,EcoThread,2022-02-22,44.54
+P2128,Electrónica,VoltPro,2024-06-14,26.04
+P2129,Electrónica,TecnoMax,2024-06-04,21.44
+P2130,Hotel,Sueño Real,2022-08-04,52.18
+P2131,Electrónica,Photonix,2023-09-15,21.74
+P2132,Electrónica,NeuroSoft,2022-02-26,26.16
+P2133,Ropa,Eleganza,2024-01-03,24.56
+P2134,Hotel,Hotel Mar Azul,2023-07-08,97.5
+P2135,Electrónica,Auralink,2023-04-20,13.55
+P2136,Electrónica,Auralink,2023-01-19,14.2
+P2137,Hotel,Andes Inn,2022-11-27,60.95
+P2138,Ropa,Eleganza,2023-01-08,30.47
+P2139,Restaurante,Cafeto,2023-11-24,33.24
+P2140,Ropa,EcoThread,2022-01-10,19.48
+P2141,Restaurante,El Asadero,2022-01-18,8.7
+P2142,Restaurante,Sabores Doña Ana,2022-08-22,19.72
+P2143,Supermercado,MercadoPlus,2023-04-27,28.69
+P2144,Supermercado,Frescura,2022-07-13,24.38
+P2145,Ropa,EcoThread,2022-04-09,30.93
+P2146,Restaurante,El Asadero,2023-05-09,39.59
+P2147,Ropa,Fit&Go,2022-03-30,23.03
+P2148,Ropa,Fit&Go,2023-03-16,20.55
+P2149,Electrónica,Photonix,2023-10-26,17.22
